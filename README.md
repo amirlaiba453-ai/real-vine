@@ -36,18 +36,18 @@ To run **Realvine** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/realvine.git
+sudo git clone https://github.com/amirlaiba/realvine.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/realvine.git
+git clone https://github.com/amirlaiba/realvine.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/amirlaiba).
 
 ### License
 
